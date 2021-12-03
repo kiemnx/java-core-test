@@ -13,6 +13,10 @@ public class LoopExample {
              * kiểm tra nếu count còn nhỏ hơn 4
              * thì còn quay lại vòng for kiểm tra điều kiện lặp
              */
+
+
+
+
             if (count < 4) {
                 continue;
             }
